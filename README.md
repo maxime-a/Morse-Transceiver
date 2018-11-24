@@ -6,7 +6,7 @@
 
 I use a basic Colpitts crystal oscilattor to generate carrier wave.
 
-![Colpitts crystal oscillator schematic](/Colpitts Quartz Oscilator Schematic.PNG)
+![Colpitts crystal oscillator schematic](/Colpitts Quartz Oscillator Schematic.PNG)
 
 ### LF Signal
 
